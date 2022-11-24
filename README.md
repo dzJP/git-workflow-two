@@ -10,3 +10,5 @@ This is the second line</p>
 
 We are happy with the project so far so we are going to create a new branch
 and use this as a "savepoint".
+
+We have created our new branch now.
