@@ -26,3 +26,5 @@ And here is a <em>italic text</em>
 <li>Ordered list, second item</li>
 <li>Ordered list, third item</li>
 </ol>
+
+This is a link example[press me to get to google](https://google.com).
