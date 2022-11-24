@@ -20,3 +20,9 @@ And here is a <em>italic text</em>
 >This is also a blockquote
 >>This is a nested blockquote
 >And this is a blockquote once again
+
+<ol>
+<li>Ordered list, first item</li>
+<li>Ordered list, second item</li>
+<li>Ordered list, third item</li>
+</ol>
