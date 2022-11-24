@@ -12,3 +12,6 @@ We are happy with the project so far so we are going to create a new branch
 and use this as a "savepoint".
 
 We have created our new branch now.
+
+Here is a <strong>bold text</strong>
+And here is a <em>italic text</em>
